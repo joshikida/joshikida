@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=hoverdoge&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=joshikida&hide_border=true&mode=weekly)](https://git.io/streak-stats)
