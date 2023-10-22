@@ -1,1 +1,1 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=joshikida)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hoverdoge&hide_border=true&mode=weekly)](https://git.io/streak-stats)
